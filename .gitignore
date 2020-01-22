@@ -3,6 +3,7 @@ googletest-download/
 googletest-src/
 lib/
 runAllTests
+main
 
 # Created by https://www.gitignore.io/api/cmake
 # Edit at https://www.gitignore.io/?templates=cmake
